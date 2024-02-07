@@ -38,9 +38,9 @@
           "Android/data/com.xiaomi.market"
         ],
         "description": {
-            "zh_CN": "尝试修复 <b>应用商店</b> 无法安装",
-            "zh": "尝试修復 <b>应用商店</b> 无法安装",
-            "en": "Try to fix <b>App Store</b> can't install"
+          "zh_CN": "尝试修复 <b>应用商店</b> 无法安装",
+          "zh": "尝试修復 <b>应用商店</b> 无法安装",
+          "en": "Try to fix <b>App Store</b> can't install"
         }
       }
     }
