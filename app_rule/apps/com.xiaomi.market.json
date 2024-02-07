@@ -29,5 +29,20 @@
       "zh": "如果無法正常安裝應用程序，可以嘗試提供 “Android/data”，“MIUI” 文件夾訪問權限。",
       "en": "If you can not install the application normally, you can try to provide \"Android/data\", \"MIUI\" folder access permissions."
     }
-  ]
+  ],
+  "accessible_folders": {
+    "data": {
+      "": {
+        "source_package": "com.xiaomi.market",
+        "paths": [
+          "Android/data/pansong291.xposed.quickenergy"
+        ],
+        "description": {
+            "zh_CN": "尝试修复 <b>应用商店</b> 无法安装",
+            "zh": "尝试修復 <b>应用商店</b> 无法安装",
+            "en": "Try to fix <b>App Store</b> can't install"
+        }
+      }
+    }
+  }
 }
