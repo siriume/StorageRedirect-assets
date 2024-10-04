@@ -4,7 +4,8 @@
     "authors": [
         "DEVELOPER",
         "zhxhwyzh14",
-        "lelemka0"
+        "lelemka0",
+        "siriume"
     ],
     "last_update": {
         "timestamp": 1585130083,
@@ -38,6 +39,17 @@
                     "zh_CN": "尝试修复 <b>XQuickEnergy</b> 失效",
                     "zh": "尝试修復 <b>XQuickEnergy</b> 失效",
                     "en": "Try to fix <b>XQuickEnergy</b> not work"
+                }
+            },
+            "芝麻粒": {
+                "source_package": "io.github.lazyimmortal.sesame",
+                "paths": [
+                    "Android/media/com.eg.android.AlipayGphone/sesame/"
+                ],
+                "description": {
+                    "zh_CN": "尝试修复 <b>芝麻粒</b> 失效",
+                    "zh": "尝试修復 <b>sesame</b> 失效",
+                    "en": "Try to fix <b>sesame</b> not work"
                 }
             }
         }
