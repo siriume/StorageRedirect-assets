@@ -1,0 +1,31 @@
+{
+    "package": "leo.xposed.sesamex",
+    "verified": false,
+    "authors": [
+        "siriume"
+    ],
+    "last_update": {
+        "timestamp": 1728060755,
+        "version_name": "1.9.8",
+        "version_code": 80
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "accessible_folders": {
+        "data": {
+            "芝麻糊": {
+                "source_package": "com.eg.android.AlipayGphone",
+                "paths": [
+                    "Android/media/com.eg.android.AlipayGphone/sesameX"
+                ],
+                "description": {
+                    "zh_CN": "尝试修复 <b>芝麻糊</b> 失效",
+                    "zh": "尝试修復 <b>芝麻糊</b> 失效",
+                    "en": "Try to fix <b>sesame</b> not work"
+                }
+            }
+        }
+    }
+}
