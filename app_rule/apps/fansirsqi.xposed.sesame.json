@@ -1,0 +1,31 @@
+{
+    "package": "leo.xposed.sesameX",
+    "verified": false,
+    "authors": [
+        "siriume"
+    ],
+    "last_update": {
+        "timestamp": 1737383630,
+        "version_name": "0.2.5",
+        "version_code": 1527
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ],
+    "accessible_folders": {
+        "data": {
+            "芝麻糊X": {
+                "source_package": "com.eg.android.AlipayGphone",
+                "paths": [
+                    "Android/media/com.eg.android.AlipayGphone/sesame-TK"
+                ],
+                "description": {
+                    "zh_CN": "尝试修复 <b>芝麻粒-TK</b> 失效",
+                    "zh": "尝试修復 <b>芝麻粒-TK</b> 失效",
+                    "en": "Try to fix <b>sesame-TK</b> not work"
+                }
+            }
+        }
+    }
+}
