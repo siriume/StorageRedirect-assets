@@ -55,7 +55,7 @@
             "芝麻粒X": {
                 "source_package": "leo.xposed.sesameX",
                 "paths": [
-                    "Android/media/com.eg.android.AlipayGphone/sesameX/"
+                    "Android/data/com.eg.android.AlipayGphone/sesameX/"
                 ],
                 "description": {
                     "zh_CN": "尝试修复 <b>芝麻粒X</b> 失效",
