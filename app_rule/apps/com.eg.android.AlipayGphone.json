@@ -51,6 +51,17 @@
                     "zh": "尝试修復 <b>sesame</b> 失效",
                     "en": "Try to fix <b>sesame</b> not work"
                 }
+            },
+            "芝麻粒X": {
+                "source_package": "leo.xposed.sesameX",
+                "paths": [
+                    "Android/media/com.eg.android.AlipayGphone/sesameX/"
+                ],
+                "description": {
+                    "zh_CN": "尝试修复 <b>芝麻粒X</b> 失效",
+                    "zh": "尝试修復 <b>sesameX</b> 失效",
+                    "en": "Try to fix <b>sesameX</b> not work"
+                }
             }
         }
     }
