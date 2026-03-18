@@ -18,12 +18,12 @@
             "芝麻粒": {
                 "source_package": "com.eg.android.AlipayGphone",
                 "paths": [
-                    "Android/media/com.eg.android.AlipayGphone/sesame"
+                    "Android/media/com.eg.android.AlipayGphone/Sesame"
                 ],
                 "description": {
                     "zh_CN": "尝试修复 <b>芝麻粒</b> 失效",
-                    "zh": "尝试修復 <b>sesame</b> 失效",
-                    "en": "Try to fix <b>sesame</b> not work"
+                    "zh": "尝试修復 <b>Sesame</b> 失效",
+                    "en": "Try to fix <b>Sesame</b> not work"
                 }
             }
         }
